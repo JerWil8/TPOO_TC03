@@ -1,2 +1,4 @@
 public class HolaMundo { public static void main(String[] args) { System.out.println("Trabajo de Campo 3 - TPOO"); } }
-//Cambiar el nombre de la clase
+
+//Cambiar el nombre de la clase a Principal
+public class Principal { public static void main(String[] args) { System.out.println("Trabajo de Campo 3 - TPOO"); } }
